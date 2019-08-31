@@ -1,25 +1,22 @@
-# Custom Admin Settings
+# RePresentation
 
-@TODO
+РЕАКТтивный констркутор страниц!
 
-## Description
+## Описание
 
-@TODO
+Создавай ебаную хуиту вместе с RePresentation!
 
-## Installation
+## Установка
 
-Once you download a copy of the plugin, there are multiple ways to install it.
+Если вы уже решилсь, то есть несколько способов установить это дерьмо:
+### Используя установщик плагинов WordPress:
 
-### Using The WordPress Dashboard
+1. Перейдите на страницу "добавить плагин"
+2. Выберите "representation.zip" у себя на компъютере
+3. Нажмите "Загрузить"
+4. Активируйте плагин на странице плагинов WordPress
 
-1. Navigate to the 'Add New' Plugin page
-2. Select `custom-admin-settings.zip` from your computer
-3. Click 'Upload'
-4. Activate the plugin on the WordPress Plugin Dashboard
+### Используя FTP
 
-### Using FTP
-
-1. Extract `custom-admin-settings.zip.zip` to your computer
-2. Upload the `custom-admin-settings.zip` directory to your `wp-content/plugins`
-   directory
-3. Activate the plugin on the WordPress Plugins dashboard
+1. Загрузите извлечённую папку "representation" в вашу директоию "/wp-content/plugins/"
+2. Активируйте плагин на странице плагинов WordPress
